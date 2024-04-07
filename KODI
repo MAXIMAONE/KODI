@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169820.ts
+#EXTINF:-1 tvg-id="CINEMAX SD" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169820.ts
+#EXTINF:-1 tvg-id=" Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/223108.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190645.ts
+#EXTINF:-1 tvg-id="DE PELICULA HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172793.ts
+#EXTINF:-1 tvg-id="DISCOVEY 2" tvg-logo="https://i.pinimg.com/originals/dc/47/f9/dc47f97388f9d53558c127321a6caf3a.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/171001.ts
+#EXTINF:-1 tvg-id="NATGEO TV" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/171024.ts
+#EXTINF:-1 tvg-id="ESPN/HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/181236.ts
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://espnpressroom.com/latinamerica/files/2022/05/ESPN-Premium-.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/184462.ts
+#EXTINF:-1 tvg-id="MTV Hits" tvg-logo="http://www.mtv.co.uk/sites/default/files/styles/image-w-760-h-428-scale-crop/public/mtv_uk/playlists/2019/05/08/mtv-hits.jpg?itok=bQRQKE7F"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190528.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2560px-MTV-Logo.svg.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://castlempire.site:8080/images/f91c676cbee8fc9aa708334fcf26d981.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://castlempire.site:8080/images/9f52201c61e6bf4f1e45c2d9a6830678.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://castlempire.site:8080/images/e8ba7d7409ebffad3063182fa84c42ba.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://e7.pngegg.com/pngimages/831/264/png-clipart-fox-channel-television-show-fox-international-channels-fox-life-fox-television-angle.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://castlempire.site:8080/images/269fbfcd2b3c63451b5183b7c4531e2b.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190632.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA TV" tvg-logo="http://castlempire.site:8080/images/8ca0375a0a15a6369598c445aa91f2a1.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190633.ts
+#EXTINF:-1 tvg-id="USA TV" tvg-logo="https://i.pinimg.com/736x/ff/65/90/ff6590975bb38299e066497e6f7eb9c7.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190633.ts
+#EXTINF:-1 tvg-id="" tvg-name="USATV" tvg-logo="https://logowik.com/content/uploads/images/usa-network9869.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190646.ts
+#EXTINF:-1 tvg-id="TNT MX" tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg?resize=600%2C600"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190643.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.tvconexion.com/img/tnt-series.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190644.ts
+#EXTINF:-1 tvg-id="TOONCAST-TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/178334.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://logowik.com/content/uploads/images/405_universalchannel.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190653.ts
+#EXTINF:-1 tvg-id=""Mtv mx" tvg-logo="https://www.clipartmax.com/png/middle/137-1379168_mtv-logo-mtv-philippines-logo.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/186844.ts
+#EXTINF:-1 tvg-id="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190608.ts
+#EXTINF:-1 tvg-id="WARNER®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Los Gatos Samurai" tvg-logo="http://castlempire.site:8080/images/b5b09237c67d16a8f648b60a9a305c46.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/186850.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARICATOON TV" tvg-logo="http://castlempire.site:8080/images/0f2a5dd4028d24b3f820b25a20955996.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/186853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://castlempire.site:8080/images/270626fbb85e452921a32d29f0c078f5.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/204870.ts
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror" tvg-logo="http://castlempire.site:8080/images/c7025abbaf82c32ac5702cd4d26b34ad.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/186852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos" tvg-logo="http://castlempire.site:8080/images/0f2a5dd4028d24b3f820b25a20955996.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/186853.ts
+#EXTINF:-1 tvg-id=""Warner Channel HD" tvg-logo="http://castlempire.site:8080/images/6bfdf568a1c1a93dbf655874afff7c98.jpg" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190797.ts
+#EXTINF:-1 tvg-id=""WarnerHD" tvg-logo="http://castlempire.site:8080/images/4fdd874941dc0f539644a3e3b2d4570d.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170905.ts
+#EXTINF:-1 tvg-id=""HBO 2 HD" tvg-logo="http://castlempire.site:8080/images/db1632a0cd85c80749534dd9f2f8bb3f.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172765.ts
+#EXTINF:-1 tvg-id=""HBO FAMILY" tvg-logo="http://castlempire.site:8080/images/f08f34a9a78ffe43f634159aab3a521c.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172789.ts
+#EXTINF:-1 tvg-id=""HBO HD (ARG)" tvg-logo="http://castlempire.site:8080/images/e0cae76113b29c7691453294e1c8d654.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172764.ts
+#EXTINF:-1 tvg-id=""HBO Plus" tvg-logo="http://castlempire.site:8080/images/2e84e5035015d95ea283f2da42bdb065.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169822.ts
+#EXTINF:-1 tvg-id=""HBO Pop" tvg-logo="http://castlempire.site:8080/images/6727955f428709d4a93f1176e63b9c31.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169824.ts
+#EXTINF:-1 tvg-id="" tvg-name=""HBO SIGNATURE" tvg-logo="http://castlempire.site:8080/images/bd9bac19be8c161770a5ba7a4bb80b54.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169821.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO-POP 2" tvg-logo="http://castlempire.site:8080/images/6727955f428709d4a93f1176e63b9c31.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169811.ts
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169785.ts
+#EXTINF:-1 tvg-id=""STAR ACTION  ( Dual audio)" tvg-logo="http://castlempire.site:8080/images/48a7d209497072e8bf152ff5a48d4fed.png" 
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172757.ts
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169815.ts
+#EXTINF:-1 tvg-id="SONY CINE" tvg-logo="https://fltaradio.com/upload/2018/12/sony-movie-channel.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/169785.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg/revision/latest?cb=20220311031932"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/172760.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png"
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://www.tvconexion.com/img/tnt-series.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190736.ts
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://files.merca20.com/uploads/2018/10/universal-tv-rebranding.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190823.ts
+#EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2020/04/Canal-5-videos.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190840.ts
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170831.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/190823.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170820.ts
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"
+https://chttps://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170825.ts
+#EXTINF:-1 tvg-id="fox sports" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/05/logo-fox-sports.jpg"
+https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/170843.ts
+
+
+
+
+
+
+
+
+hoy
