@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg"
 https://castlempire.site:443/23CAMILO4/cmGfhqtnxv/173882.ts
 #EXTINF:-1 tvg-id="CINEMAX SD" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png"
